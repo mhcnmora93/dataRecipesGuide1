@@ -1,6 +1,6 @@
 {
-"ads": {"network":"fan","url":"https://pastebin.com/"},
-"reword": {"items":"1/6/3"},
+"ads": {"network":"applovin","url":"https://play.google.com/store/apps/developer?id=Bab2a+Zayi/"},
+"reword": {"items":""},
 
 "fan": {
 "banner":"IMG_16_9_APP_INSTALL#1103439843731779_1103440660398364",
@@ -10,8 +10,8 @@
 
 "applovin": {
 "banner":"aaabe4a6f96f8c7c",
-"inter":"713d9a1b965c3715",
-"nativ":"1c0bc187f30f0d19",
-"reword":"1c0bc187f30f0d19"}
+"inter":"3584e7db084c3dca",
+"nativ":"ca15075c8c08408c",
+"reword":"ac6a47fc05b29581"}
   
 }
